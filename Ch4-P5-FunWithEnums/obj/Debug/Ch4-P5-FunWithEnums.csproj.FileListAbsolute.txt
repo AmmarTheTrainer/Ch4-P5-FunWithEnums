@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\Projects\Ch4-P5-FunWithEnums\Ch4-P5-FunWithEnums\bin\Debug\Ch4-P5-FunWithEnums.exe.config
+C:\Users\Lenovo\Documents\Projects\Ch4-P5-FunWithEnums\Ch4-P5-FunWithEnums\bin\Debug\Ch4-P5-FunWithEnums.exe
+C:\Users\Lenovo\Documents\Projects\Ch4-P5-FunWithEnums\Ch4-P5-FunWithEnums\bin\Debug\Ch4-P5-FunWithEnums.pdb
+C:\Users\Lenovo\Documents\Projects\Ch4-P5-FunWithEnums\Ch4-P5-FunWithEnums\obj\Debug\Ch4-P5-FunWithEnums.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\Projects\Ch4-P5-FunWithEnums\Ch4-P5-FunWithEnums\obj\Debug\Ch4-P5-FunWithEnums.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Projects\Ch4-P5-FunWithEnums\Ch4-P5-FunWithEnums\obj\Debug\Ch4-P5-FunWithEnums.exe
+C:\Users\Lenovo\Documents\Projects\Ch4-P5-FunWithEnums\Ch4-P5-FunWithEnums\obj\Debug\Ch4-P5-FunWithEnums.pdb
